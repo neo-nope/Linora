@@ -57,28 +57,4 @@ The Linora Cipher introduces chaining similar to Cipher Block Chaining (CBC) mod
 - Suitable for obfuscation, experimentation, games, puzzles, and learning.
 - Resistant to simple frequency analysis due to chaining.
 
----
-
-## 📜 License
-
-```text
-Linora Cipher License v1.0
-Copyright © 2025 modify
-
-Permission is hereby granted to any person or organization to use, reproduce, modify, and distribute the Linora Cipher and associated documentation (the "Cipher"), subject to the following conditions:
-
-1. Attribution Requirement
-   - Proper credit must be given to the original author (“modify”) in any distributed or published work that uses or adapts the Cipher.
-
-2. Exceptions to Attribution
-   - Attribution is not required when the Cipher is used as part of an alternate reality game (ARG), immersive fiction, escape room, or interactive experience where visible attribution would break narrative immersion or reduce the effectiveness of the experience.
-
-3. No Warranty
-   - The Cipher is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damage or misuse resulting from its use.
-
-4. Integrity of Design
-   - Modified versions may be created, but must not be falsely presented as the original design by modify.
-
-By using the Cipher, you agree to the terms above.
-
-— modify
+- modify
