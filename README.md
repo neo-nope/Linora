@@ -58,3 +58,48 @@ The Linora Cipher introduces chaining similar to Cipher Block Chaining (CBC) mod
 - Resistant to simple frequency analysis due to chaining.
 
 - modify
+
+
+keywords:
+
+Linora Cipher
+
+Modular Cipher
+
+Neighbor-chain Cipher
+
+Symmetric Encryption
+
+Modular Arithmetic Cipher
+
+Character-level Encryption
+
+Encryption Algorithm
+
+Custom Cipher
+
+Cryptography Experiment
+
+Educational Cipher
+
+Cipher Chaining
+
+Chain Encryption Algorithm
+
+Cipher Block Chaining (CBC) Inspired
+
+Obfuscation Algorithm
+
+Lightweight Encryption
+
+Puzzle Encryption
+
+Cryptographic Learning
+
+Encryption Example
+
+Modular Inverse Cipher
+
+2025 Encryption Algorithm
+
+modify Cipher Project
